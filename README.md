@@ -182,8 +182,6 @@ Vellore Institute of Technology (VIT), Vellore
 
 
 
----
-
 ## 📄 Project Report
 
 The complete project report, methodology, experimental setup, comparative analysis, and results are included in the repository.
