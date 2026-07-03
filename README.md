@@ -169,17 +169,6 @@ Potential improvements include:
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-Brain-Tumor-Analysis-Using-Machine-Learning
-│
-├── README.md
-├── Project\_Report.pdf
-├── Images
-├── Results
-└── Source Code
 
 ```
 
