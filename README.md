@@ -191,9 +191,7 @@ Brain-Tumor-Analysis-Using-Machine-Learning
 B.Tech – Electrical and Electronics Engineering  
 Vellore Institute of Technology (VIT), Vellore
 
-**Abhishek Kumar**  
-B.Tech – Electronics and Instrumentation Engineering  
-Vellore Institute of Technology (VIT), Vellore
+
 
 ---
 
